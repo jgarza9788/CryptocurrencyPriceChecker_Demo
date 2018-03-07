@@ -1,4 +1,4 @@
-CrytocurrencyPriceChecker
+CryptocurrencyPriceChecker
 -------------------------------------
 [Asset Store Link](http://u3d.as/16VJ)  
 © 2017 Justin Garza
