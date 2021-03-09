@@ -102,6 +102,13 @@ The Other scripts are in this asset, but they are not used in the Demos.
 ### Missing Icon for NANO (Known Issue).
 i know there is a missing icons for nano.
 
+### Error CS0103
+```
+The name 'HttpUtility' does not exist in the current context  
+```
+if this error occurs please change the **API Compatibility Level\*** to **.NET Standard 2.0**
+![Imgur](https://i.imgur.com/oD23JvV.png)
+
 ### Too many requests.
 this is an issue with the api, and they provide a payment plan if you need to make more requests.
 
